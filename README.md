@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, I’m @aayushojha (Aayush Ojha)<br>👀 I’m interested in Genomics, and Proteomics. <br> I have expertise in  Python, and NGS data analysis. <br> I am currently learning R programming, Machine learning algorithms and pipeline development.<br> I’m looking to collaborate in the implications of Machine learning in Genomic Data Science.<br>📫 Reach out to me via Gmail - ccaayush123@gmail.com<br> 📫 Connect with me in Linkedin - linkedin.com/in/aayush-ojha-6b09b61b8 Happy Coding !
+👋 Hi, I’m @aayushojha (Aayush Ojha) <br> I have expertise in  Python, and NGS data analysis. <br> I’m interested in Computational Biology, and Multi-omics analysis. <br> I code in Python, R and shell. I explore AI, ML and RL contents apllied in the field of biotech.<br>📫 Reach out to me via Gmail - ccaayush123@gmail.com<br> 📫 Connect with me in Linkedin - linkedin.com/in/aayush-ojha-6b09b61b8 Happy Coding !
 
 
 ## 🌐 Socials:
